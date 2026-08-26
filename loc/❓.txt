@@ -4,6 +4,3 @@
 
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc#hamedp71%3A%3A%E2%9D%93
 vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.46.6:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedp71%3A%3A%E2%9D%93
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2053?security=reality&encryption=none&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=vk.ru&sid=a6bbc4aecf5d961f#hamedp71%3A%3A%E2%9D%93
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?path=/7J5lLqtBnJg9WjVT?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev#hamedp71%3A%3A%E2%9D%93
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?path=/yraL4HRbwB8cMc0F?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv#hamedp71%3A%3A%E2%9D%93
